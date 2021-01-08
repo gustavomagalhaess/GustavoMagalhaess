@@ -28,12 +28,12 @@ I'm a PHP Full Stack Developer over 8 years building government web systems most
 <img height="25" src="https://img.shields.io/badge/docker-33adff.svg?&style=for-the-badge&logo=docker&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Swarm-FFA633.svg?&style=for-the-badge&logo=Swarm&logoColor=white"></img>
 
-### Versionment
+### Versionments
 <img height="25" src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Npm-FF2D20.svg?style=for-the-badge&logo=Npm&logoColor=white"></img>
 
-### Package Mananger
+### Package Manangers
 <img height="25" src="https://img.shields.io/badge/Composer-885630.svg?&style=for-the-badge&logo=composer&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Npm-FF2D20.svg?style=for-the-badge&logo=Npm&logoColor=white"></img>
 
 ### Servers
 <img height="25" src="https://img.shields.io/badge/NGinx-269539.svg?&style=for-the-badge&logo=NGinx&logoColor=white"></img> 
