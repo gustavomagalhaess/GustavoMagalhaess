@@ -1,10 +1,15 @@
-👋 Hi there! I'm Gustavo Magalhães. 
+👋 Hi there! I'm Gustavo Magalhães.
 
-## About me
+## 📝 Table of Contents
+
+- [About me](#about_me)
+- [Skills](#skills)
+
+## 🧐 About me <a name = "about_me"></a>
 
 I'm a PHP Full Stack Developer over 8 years building government web systems mostly. I'm familiar with DevOps culture over 2 years and I'm working under agile methodology (SCRUM) for 5 years. I'm a hard working and proactive person, responsible with my assignments and a dedicated professional. I've a good relationship and I'm open to learn new technologies and methodologies.
 
-## 🧠 Skills
+## 🧠 Skills <a name = "skills"></a>
   
 ### Script Languagages
 <img height="25" src="https://img.shields.io/badge/php-8993be.svg?&style=for-the-badge&logo=php&logoColor=white"></img>
