@@ -1,4 +1,5 @@
-👋 Hi there! I'm Gustavo Magalhães.
+<h1 align="center">👋 Hi there! I'm Gustavo Magalhães.</h1>
+<br>
 
 ## 📝 Table of Contents
 
