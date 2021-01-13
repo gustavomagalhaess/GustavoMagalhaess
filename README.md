@@ -5,6 +5,8 @@
 
 - [About me](#about_me)
 - [Skills](#skills)
+- [Stats](#stats)
+- [Top Languages](#top_languages)
 
 ## 🧐 About me <a name = "about_me"></a>
 
@@ -53,6 +55,12 @@ I'm a PHP Full Stack Developer over 8 years building government web systems most
 
 ### OS
 <img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
+
+## <a name = "stats"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=GustavoMagalhaess&theme=dark&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+
+## <a name = "top_languages"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoMagalhaess&theme=dark" alt="Top Languages" />
 
 <!--
 **GustavoMagalhaess/GustavoMagalhaess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
