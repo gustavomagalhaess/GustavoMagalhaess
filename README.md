@@ -10,7 +10,7 @@
 
 ## 🧐 About me <a name = "about_me"></a>
 
-I'm a PHP Full Stack Developer over 8 years building government web systems mostly. I'm familiar with DevOps culture over 2 years and I'm working under agile methodology (SCRUM) for 5 years. I'm a hard working and proactive person, responsible with my assignments and a dedicated professional. I've a good relationship and I'm open to learn new technologies and methodologies.
+I'm a PHP Full Stack Developer over 10 years building government web systems mostly. I'm familiar with DevOps culture over 3 years and I'm working under agile methodology (SCRUM) for 5 years. I'm a hard working and proactive person, responsible with my assignments and a dedicated professional. I've a good relationship and I'm open to learn new technologies and methodologies.
 
 ## 🧠 Skills <a name = "skills"></a>
   
