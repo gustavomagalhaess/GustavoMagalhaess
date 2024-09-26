@@ -10,7 +10,10 @@
 
 ## 🧐 About me <a name = "about_me"></a>
 
-I'm a PHP Full Stack Developer over 10 years building government web systems mostly. I'm familiar with DevOps culture over 3 years and I'm working under agile methodology (SCRUM) for 5 years. I'm a hard working and proactive person, responsible with my assignments and a dedicated professional. I've a good relationship and I'm open to learn new technologies and methodologies.
+With a solid 20-year path in technology, I have stood out over the last 15 years as a specialized professional in PHP system analysis and development mostly focused on corporate and educational applications.
+I have dedicated myself to learning code best practices, design patterns, SOLID principles, testing applications, and debugging tools to deliver good-quality applications.
+I'm experienced in the popular frameworks such as Zend, Symfony, Cogniter, Yii, and Laravel for web development over the years.
+I'm also skilled in Docker for system containerization, skilled in Git for code versioning using into the CI/CD process, and skilled in Scrum methodology.
 
 ## 🧠 Skills <a name = "skills"></a>
   
