@@ -44,7 +44,7 @@ Strong communicator and collaborative team player, committed to fostering a posi
 
 ### Versioning
 <img height="25" src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab"></img>
+<img height="25" src="https://img.shields.io/badge/-Gitlab-black?style=for-the-badge&logo=gitlab"></img>
 
 ### Monitoring/Debugging
 <img height="25" src="https://img.shields.io/badge/-DataDog-000?logo=datadog"></img>
