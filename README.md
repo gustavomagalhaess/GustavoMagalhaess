@@ -27,17 +27,18 @@ Strong communicator and collaborative team player, committed to fostering a posi
 <img height="25" src="https://img.shields.io/badge/zend-68B604.svg?&style=for-the-badge&logo=zend-framework&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/symfony-000000.svg?&style=for-the-badge&logo=symfony&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/angular-E23237.svg?&style=for-the-badge&logo=angular&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></img>
 <img height="25" src="https://img.shields.io/badge/bootstrap-33adff.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></img>
-  
-### Front End
-<img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img>
 
-### Containers
+### Caching
+<img height="25" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/bootstrap-33adff.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+
+### Containerization
 <img height="25" src="https://img.shields.io/badge/docker-33adff.svg?&style=for-the-badge&logo=docker&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Swarm-FFA633.svg?&style=for-the-badge&logo=Swarm&logoColor=white"></img>
 
-### Versionments
+### Versioning
 <img height="25" src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white"></img>
 
 ### Package Manangers
