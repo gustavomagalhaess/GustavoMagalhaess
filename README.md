@@ -10,10 +10,8 @@
 
 ## 🧐 About me <a name = "about_me"></a>
 
-With a solid 20-year path in technology, I have stood out over the last 15 years as a specialized professional in PHP system analysis and development mostly focused on corporate and educational applications.
-I have dedicated myself to learning code best practices, design patterns, SOLID principles, testing applications, and debugging tools to deliver good-quality applications.
-I'm experienced in the popular frameworks such as Zend, Symfony, Cogniter, Yii, and Laravel for web development over the years.
-I'm also skilled in Docker for system containerization, skilled in Git for code versioning using into the CI/CD process, and skilled in Scrum methodology.
+Software Developer with over 15 years of experience building feature-rich PHP applications and expertise across front-end and back-end technologies. Passionate about delivering secure, maintainable, and high-performance solutions by applying SOLID principles, Design Patterns, and OWASP security practices. Experienced with message queue-based architectures for microservices and asynchronous processing, as well as modern version control workflows and containerized environments that enable reliable and scalable deployments.
+Strong communicator and collaborative team player, committed to fostering a positive and productive work environment.
 
 ## 🧠 Skills <a name = "skills"></a>
   
